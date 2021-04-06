@@ -24,6 +24,13 @@ We believe the exposure towards these techniques to be of great interest and imp
 
 ## Schedule
 
+| Time | Event |
+| --- | --- |
+| 08:00 - 08:30 | Theoretical aspects of federated learning |
+| 08:30 - 10:00 | Live coding: federated learning example using [PriMIA](https://github.com/gkaissis/PriMIA) |
+| 10:00 - 10:15 | Break |
+| 10:15 - 11:00 | Short intro to differential privacy |
+| 11:00 - 12:00 | Live coding: Privacy-preserving deep learning using [deepee](https://github.com/gkaissis/deepee) |
 
 ## Organisers
 - Georgios Kaissis, Technical University of Munich and Imperial College London
