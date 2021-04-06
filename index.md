@@ -26,7 +26,7 @@ We believe the exposure towards these techniques to be of great interest and imp
 
 
 ## Organisers
-Georgios Kaissis, Technical University of Munich and Imperial College London
-Daniel Rueckert, Technical University of Munich and Imperial College London
-Alexander Ziller, Technical University of Munich
-Dmitrii Usynin, Technical University of Munich and Imperial College London
+- Georgios Kaissis, Technical University of Munich and Imperial College London
+- Daniel Rueckert, Technical University of Munich and Imperial College London
+- Alexander Ziller, Technical University of Munich
+- Dmitrii Usynin, Technical University of Munich and Imperial College London
