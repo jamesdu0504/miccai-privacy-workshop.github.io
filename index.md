@@ -51,6 +51,8 @@ Participants are able to take advantage of mentoring by the OpenMined team by jo
 - Tushar Semwal, University of Edinburgh, OpenMined
 - Madeleine Shang, OpenMined
 
+![](./TUM_ICL_OM_Logos.jpg)
+
 ## Mentoring Team
 - Shaistha Fathima, OpenMined 
 - Soumia Zohra El Mestari, OpenMined
