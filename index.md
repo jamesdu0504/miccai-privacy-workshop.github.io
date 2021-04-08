@@ -43,10 +43,11 @@ Participants are able to take advantage of mentoring by the OpenMined team by jo
 
 ## Organisers
 - Georgios Kaissis, Technical University of Munich, Imperial College London, OpenMined
-- Emma Bluemke, University of Oxford, OpenMined
 - Daniel Rueckert, Technical University of Munich and Imperial College London
 - Alexander Ziller, Technical University of Munich and OpenMined
 - Dmitrii Usynin, Technical University of Munich, Imperial College London, OpenMined
+- Jonathan Passerat-Palmbach, Imperial College London and Consensys Health
+- Emma Bluemke, University of Oxford, OpenMined
 - Fatemehsadat Mireshghallah, University of California, San Diego and OpenMined
 - Tushar Semwal, University of Edinburgh, OpenMined
 - Madeleine Shang, OpenMined
